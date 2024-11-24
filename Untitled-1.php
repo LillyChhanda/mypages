@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <!--
 	Strata by HTML5 UP
@@ -49,39 +48,34 @@
 						<h2>Recent Work</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
-								<a href="https://public.tableau.com/app/profile/amir.mhk/viz/CovidDashboardPortfolio_am/Dashboard1"><img src="images/thumbs/TabluePrj.jpg" alt="" /></a>
-								<h3>Tableau Project-Demographicindicator</h3>
+								<a href="images/fulls/01.jpg" class="image fit thumb"><img src="images/thumbs/01.jpg" alt="" /></a>
+								<h3>Tablau Project-Demographicindicator</h3>
 								<p>Explore global and country data on population growth, demography, and how this is changing.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<a href="https://github.com/LillyChhanda/SQL-Projects/blob/main/SQLQuery_DemographicDataExploration.sql"><img src="images/thumbs/SQLCommand2.png" alt="" /></a>
+								<a href="images/fulls/02.jpg" class="image fit thumb"><img src="images/thumbs/02.jpg" alt="" /></a>
 								<h3>SQL projects</h3>
 								<p>Data exploration through SQL</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/03.jpg" class="image fit thumb"><img src="images/thumbs/03.jpg" alt="" /></a>
 								<h3>Python Projects</h3>
-								<p>Panda, Seaborn, Matplotlib</p>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/04.jpg" alt="" /></a>
-								<h3>Supply Chain shipping Analysis</h3>
-								<p>Tableau</p>
+								<h3>Quam neque phasellus</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
-								<h3>YouTube Videos Popularity Dashboard</h3>
-								<p>PowerBI</p>
+								<h3>Nunc enim commodo aliquet</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/06.jpg" class="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
-								<h3>Save Food waste Project</h3>
-								<p>JavaScript with API</p>
-							</article>
-							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/06.jpg" class="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
-								<h3>Work in Progress Projects...</h3>
-								<p>Tableau, Python, SQL </p>
+								<h3>Risus ornare lacinia</h3>
+								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 							</article>
 						</div>
 						<ul class="actions">
@@ -456,6 +450,3 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 	</body>
 </html>
-apps-fileview.texmex_20241114.01_p0
-index.html
-Displaying index.html.
